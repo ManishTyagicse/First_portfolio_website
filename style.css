@@ -1,0 +1,142 @@
+body{
+    background-color: #B5F1CC;
+    text-align: center;
+    margin: 0px 0px;
+}
+
+a{
+    text-decoration-color:#609966;
+}
+
+hr{
+    width: 5%;
+    height: 0;
+    border-bottom: 0;
+    border-top: 7px;
+    border-style: dotted;
+    border-color: green;
+    padding-bottom: 0;
+    margin: 0px auto;
+}
+
+.first-container{
+    background-color: #B5F1CC;
+    margin-bottom: px;
+    padding-top: 25px;
+    padding-bottom: 0px;
+}
+
+.middle-container{
+    background-color: #E5FDD1;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.bottom-container{
+    background-color: #9DC08B;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+.footer-container{
+    background-color: #609966;
+    padding-top: 25px;
+    padding-bottom: 25px;
+
+}
+
+.skills-des{
+    font-family:Helvetica, sans-serif;
+    text-decoration-color: aqua;
+}
+
+.btn {
+    background: #33db8f;
+    background-image: -webkit-linear-gradient(top, #33db8f, #2b8f56);
+    background-image: -moz-linear-gradient(top, #33db8f, #2b8f56);
+    background-image: -ms-linear-gradient(top, #33db8f, #2b8f56);
+    background-image: -o-linear-gradient(top, #33db8f, #2b8f56);
+    background-image: linear-gradient(to bottom, #33db8f, #2b8f56);
+    -webkit-border-radius: 13;
+    -moz-border-radius: 13;
+    border-radius: 13px;
+    font-family: Georgia;
+    color: #c1e0e6;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+  
+.btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+}
+
+#first-cloud{
+    position: absolute;
+    right: 30%;
+    padding-bottom: 250px;
+    height: 170px;
+    width: 170px;
+}
+
+#second-cloud{
+    position: absolute;
+    left: 25%;
+    padding-bottom: 50px;
+    height: 170px;
+    width: 170px;
+}
+
+#third-cloud{
+    position: absolute;
+    right: 15%;
+    padding-bottom: 50px;
+    height: 170px;
+    width: 170px;
+}
+
+#mountain{
+    margin: 100px auto 0px auto;
+    height: 400px;
+    width: 400px;
+}
+
+#one{
+    padding-top: 200px;
+}
+
+#mypic{
+    margin-top: 50px;
+    height: 200px;
+    width: 200px;
+    border-radius: 250px;
+}
+
+.allfonts{
+    font-family:Helvetica, sans-serif;
+    text-decoration-color: aqua;
+    text-align: center;
+}
+
+.logo{
+    height: 150px;
+    width: 150px;
+}
+
+.footer-link{
+    text-decoration: none;
+    text-decoration-color: #5689c4;
+    padding-right: 30px ;
+    text-align: center;
+
+}
+.footer:hover{
+    text-decoration-color: #609966;
+}
